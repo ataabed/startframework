@@ -1,0 +1,17 @@
+.navbar 
+{
+    background-color:#2C3E50 ;
+  
+}
+.navbar a
+{
+    color: #FFFFFF;
+}
+
+.navbar ul
+{
+    /* margin-left: 20%; */
+}
+.navbar ul li{
+    margin-left: 20%;
+}

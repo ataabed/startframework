@@ -1,0 +1,14 @@
+.Section_aboout
+{
+ height:80vh;
+  
+    background-color:#1ABC9C ;
+}
+.about{
+    height: 100%;
+}
+.line
+{
+    height: 4px;
+    width: 80px;
+}

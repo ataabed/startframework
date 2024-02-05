@@ -1,0 +1,41 @@
+
+@keyframes an {
+    from{opacity: 0;background-color:transparent; 
+    }
+    to{opacity:0.8;    background-color: #29B197;    
+
+    }
+    
+}
+
+.layer__
+{
+opacity:0;
+height: 100%;
+  width:100%;
+
+  color :white;
+ /* // background-color: #29B197; */
+  /*   width: 100%;
+    height: 100%;  */
+    top: 0;
+    left: 0; 
+ 
+    right: 100%;
+
+}
+.overlayParent :hover 
+{
+cursor: pointer;
+
+
+
+} 
+.overlayParent :hover.layer__
+{
+
+ animation-name: an;
+animation-duration:1s; 
+animation-fill-mode: forwards;
+
+} 

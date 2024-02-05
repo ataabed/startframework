@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+.line
+{
+    height: 4px;
+    width: 80px;
+}
+.activeLink
+{
+    background-color:#1ABC9C ;
+    border-radius: 1rem;
+    max-width: fit-content;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
